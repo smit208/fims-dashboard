@@ -49,7 +49,7 @@ Socket.IO with JWT middleware handles WebSocket auth. Each connected user joins 
 
 ## Database Schema
 
-18 tables — see [`schema/schema.sql`](schema/schema.sql) for the full annotated schema.
+18 tables — see [`architecture/database-schema.sql`](architecture/database-schema.sql) for the full annotated schema.
 
 | Table | Purpose |
 |---|---|
