@@ -1,6 +1,8 @@
 # FIMS — Factory Inventory Management System
 
-A full-stack ERP-lite application built for small manufacturing units. Manages the complete production cycle — from raw material procurement to finished goods dispatch — with a multi-tenant architecture that isolates data per factory.
+**Tech Stack:** React 18 · Node.js · Express · PostgreSQL 15 · Docker · Socket.IO
+
+A full-stack, enterprise-ready ERP-lite application built for manufacturing units. Manages the complete production cycle — from raw material procurement to finished goods dispatch — with a multi-tenant architecture.
 
 > **Migration Note:** This repository was published in March 2025. The project has been in active development since late 2024 and is deployed in production at a manufacturing unit. This public version includes the engineering architecture (schema, Docker setup, API structure) for portfolio purposes. The full production codebase is maintained privately.
 
